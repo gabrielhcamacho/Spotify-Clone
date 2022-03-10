@@ -12,7 +12,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main className="bg-black h-screen overflow-hidden">
         <Sidebar/>
         {/* Sidebar */}
       </main>
